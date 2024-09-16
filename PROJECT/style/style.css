@@ -1,0 +1,146 @@
+body{
+	margin: 0px;
+}
+
+.background{
+	width: 1340px;
+	height: 680px;
+	position: absolute;
+	padding-top: 0px;
+}
+.header{
+	font-size: 100px;
+	position: absolute;
+	margin-top: 0px;
+	padding-top: 20px;
+	margin-left: 30px;
+	margin-left: 0px;
+	width: 1340px;
+}
+.logo{
+	position: absolute;
+	margin-top: 180px;
+	width: 600px;
+
+
+}
+.harry{
+	position: absolute;
+	width: 180px;
+	margin-top: 460px;
+}
+.slytherin{
+	position: absolute;
+	width: 150px;
+	margin-top: 445px;
+	margin-left: 160px;
+}
+.ravenclaw{
+	position: absolute;
+	width: 130px;
+	margin-top: 480px;
+	margin-left: 310px;
+}
+.puff{
+	position: absolute;
+	width: 150px;
+	margin-top: 470px;
+	margin-left: 440px;
+}
+.parag{
+	position: absolute;
+	font-size: 15px;
+	padding-top: 60px;
+	margin-left: 970px;
+}
+
+
+.h1{
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 200px;
+	color: brown;
+	font-size: 20px;
+	font-family: sans-serif;
+	
+}
+
+.para2{
+	position: absolute;
+	margin-left: 700px;
+	margin-right: 50px;
+	margin-top: 230px;
+	color: brown;
+	font-size: 15px;
+	font-family: sans-serif;
+	
+}
+.h2{
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 310px;
+	color: green;
+	font-size: 20px;
+	font-family: sans-serif;
+	
+}
+.para3{
+	position: absolute;
+	margin-left: 700px;
+	margin-right: 50px;
+	margin-top: 340px;
+	color: green;
+	font-size: 15px;
+	font-family: sans-serif;	
+}
+
+.h3{
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 430px;
+	color: blue;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+.para4{
+	position: absolute;
+	margin-left: 700px;
+	margin-right: 50px;
+	margin-top: 460px;
+	color: blue;
+	font-size: 15px;
+	font-family: sans-serif;
+}
+.h4{
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 540px;
+	color: yellow;
+	font-size: 20px;
+	font-family: sans-serif;
+
+}
+.para5{
+	position: absolute;
+	margin-left: 700px;
+	margin-right: 50px;
+	margin-top: 570px;
+	color: yellow;
+	font-size: 15px;
+	font-family: sans-serif;
+
+}
+
+.footer{
+	color: blue;
+	position: absolute;
+	font-size: 10px;
+	color: blue;
+	text-align: right;
+	margin-top: 680px;
+	background-color: gold;
+	width: 1340px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	opacity: 0.4;
+}
